@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+Intern_Assignment_Dataset/
+output/
+test_pairs.csv
+test_results.csv
